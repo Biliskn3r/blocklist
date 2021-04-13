@@ -27,7 +27,6 @@
 0.0.0.0 leakedreality.com
 0.0.0.0 hoodsite.info
 0.0.0.0 veoh.com
-0.0.0.0 newslotsite.org.uk
 0.0.0.0 findbettingsites.co.uk
 0.0.0.0 newslotsite.org.uk
 0.0.0.0 gayfriendfinder.com
