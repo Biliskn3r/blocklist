@@ -3,14 +3,27 @@
 # Homepage: https://github.com/Biliskn3r/blocklist/
 # The aim is to plug holes to sites that are not kid friendly
 # Use in conjunction with other blocklists readily available
-#
 #------------------------------------[SUPPORT]-------------------------------------
 #
 #-------------------------------------[INFO]---------------------------------------
 # Custom Domain Names
 # Kid Friendly / Adult / Gambling
 # Search Engine Images / Videos
-#
+#-----------------------------------[LOCALHOST]------------------------------------
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
 #------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 images.search.yahoo
 0.0.0.0 video.search.yahoo
