@@ -1,9 +1,16 @@
 #------------------------------------[UPDATE]--------------------------------------
 # Title: pFSense / pfBlockerNG custom blocklist
 # Homepage: https://github.com/Biliskn3r/blocklist/
+# The aim is to plug holes to sites that are not kid friendly
+# Use in conjunction with other blocklists readily available
+#
 #------------------------------------[SUPPORT]-------------------------------------
+#
 #-------------------------------------[INFO]---------------------------------------
-# Custom List / Kid Friendly / Adult / Gambling
+# Custom Domain Names
+# Kid Friendly / Adult / Gambling
+# Search Engine Images / Videos
+#
 #------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 images.search.yahoo
 0.0.0.0 video.search.yahoo
