@@ -1,0 +1,23 @@
+#------------------------------------[UPDATE]--------------------------------------
+# Title: pFSense / pfBlockerNG custom blocklist
+# Homepage: https://github.com/Biliskn3r/blocklist/
+#------------------------------------[SUPPORT]-------------------------------------
+#-------------------------------------[INFO]---------------------------------------
+# Custom List / Kid Friendly / Adult / Gambling
+#------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 images.search.yahoo
+0.0.0.0 video.search.yahoo
+0.0.0.0 uk.video.search.yahoo.com
+0.0.0.0 uk.images.search.yahoo.com
+0.0.0.0 proxy.duckduckgo.com
+0.0.0.0 flagmantube.com
+0.0.0.0 heavy.com
+0.0.0.0 mandrilltube.com
+0.0.0.0 fetishberries.com
+0.0.0.0 liveleak.com
+0.0.0.0 goreforum.com
+0.0.0.0 xfinity.com
+0.0.0.0 leakedreality.com
+0.0.0.0 hoodsite.info
+0.0.0.0 veoh.com
+0.0.0.0 newslotsite.org.uk
