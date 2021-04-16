@@ -66,6 +66,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 love.hometapp.com
 0.0.0.0 op3n.fr
 0.0.0.0 poisontube.com
+0.0.0.0 www.poisontube.com
 0.0.0.0 kommons.com
 0.0.0.0 ukadultzone.com
+0.0.0.0 www.ukadultzone.com
 #------------------------------------[END FILTERS]-------------------------------------
