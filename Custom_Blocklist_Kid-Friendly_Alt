@@ -1,0 +1,72 @@
+#------------------------------------[UPDATE]--------------------------------------
+# Title: pFSense / pfBlockerNG custom blocklist
+# Homepage: https://github.com/Biliskn3r/blocklist/
+# The aim is to plug holes to sites that are not kid friendly
+# Use in conjunction with other blocklists readily available
+#------------------------------------[SUPPORT]-------------------------------------
+#
+#-------------------------------------[INFO]---------------------------------------
+# Custom Domain Names
+# Kid Friendly / Adult / Gambling
+# Search Engine Images / Videos
+#-----------------------------------[LOCALHOST]------------------------------------
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+#------------------------------------[FILTERS]-------------------------------------
+images.search.yahoo
+video.search.yahoo
+uk.video.search.yahoo.com
+uk.images.search.yahoo.com
+proxy.duckduckgo.com
+flagmantube.com
+heavy.com
+mandrilltube.com
+fetishberries.com
+liveleak.com
+goreforum.com
+xfinity.com
+leakedreality.com
+hoodsite.info
+veoh.com
+findbettingsites.co.uk
+newslotsite.org.uk
+gayfriendfinder.com
+strv.com
+scruff.com
+okcupid.com
+taimi.com
+adultfriendfinder.com
+feeld.co
+chatdate.app
+meetme.com
+zoosk.com
+lovoo.com
+planetromeo.com
+tinder.com
+mocospace.com
+shuggr.com
+broapp.com
+manjam.com
+taimi.com
+shoot.chat
+thurst.in
+jackd.com
+love.hometapp.com
+op3n.fr
+poisontube.com
+www.poisontube.com
+kommons.com
+ukadultzone.com
+www.ukadultzone.com
+#------------------------------------[END FILTERS]-------------------------------------
