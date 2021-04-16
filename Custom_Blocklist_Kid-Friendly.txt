@@ -67,4 +67,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 op3n.fr
 0.0.0.0 poisontube.com
 0.0.0.0 kommons.com
+0.0.0.0 ukadultzone.com
 #------------------------------------[END FILTERS]-------------------------------------
